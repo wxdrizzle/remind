@@ -1,4 +1,4 @@
-# SeGro: Semantically Grounded Adaptation for Medical Image Segmentation
+# RemInD:  Unified and Semantically Grounded Adaptation for Medical Image Segmentation
 
 (Code and trained models will be released by April 30, 2026.)
 
