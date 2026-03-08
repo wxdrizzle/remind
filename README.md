@@ -8,7 +8,7 @@ This repository contains the official implementation for the papers:
 
 The TMI paper is a substantially extended journal version of our IPMI paper, featuring additional methodological innovations, improved performance, and significantly expanded experimental analyses.
 
-## Cite this paper
+## Cite this work
 
 If you find our work helpful for your research, please kindly consider citing our papers.
 
