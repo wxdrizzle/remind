@@ -60,12 +60,11 @@ TMI version:
   journal={IEEE Transactions on Medical Imaging}, 
   title={Unified and Semantically Grounded Domain Adaptation for Medical Image Segmentation}, 
   year={2026},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={45},
+  number={6},
+  pages={3352-3366},
   keywords={Adaptation models;Image segmentation;Manifolds;Anatomy;Shape;Biomedical imaging;Probabilistic logic;Deformation;Radiology;Pipelines;Disentanglement;domain adaptation;interpretability;segmentation;variational inference},
   doi={10.1109/TMI.2026.3672802}}
-
 ```
 
 IPMI version:
