@@ -14,9 +14,11 @@ The TMI paper is a substantially extended journal version of our IPMI paper, fea
    ```bash
    git clone https://github.com/wxdrizzle/remind.git
    ```
-   and change the working directory to the repository folder. 
+   and change the working directory to the repository folder.
 
-3. Install all necessary packages (including PyTorch) using
+   Note: This repository contains large image data. You can also download it through [OneDrive](https://1drv.ms/u/c/85b375c8bf246396/IQA2T99JnMykRo_w0EUPL52zAZMuOTu7yq0KdhvcaJomnaI?e=qL8byW).
+
+4. Install all necessary packages (including PyTorch) using
    ```bash
    pip install -r requirements.txt
    ```
