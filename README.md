@@ -16,7 +16,7 @@ The TMI paper is a substantially extended journal version of our IPMI paper, fea
    ```
    and change the working directory to the repository folder.
 
-   Note: This repository contains large image data. You can also download it through [OneDrive](https://1drv.ms/u/c/85b375c8bf246396/IQA2T99JnMykRo_w0EUPL52zAZMuOTu7yq0KdhvcaJomnaI?e=qL8byW) or [Dropbox](https://www.dropbox.com/scl/fi/35ye9n54te1vwxa6rrwxe/remind.zip?rlkey=n3ultal8cvu8ny8kqdct5u1nk&st=ikixdmzc&dl=0).
+   Note: This repository contains large image data (total size ~2.7 GB). You can also download it through [OneDrive](https://1drv.ms/u/c/85b375c8bf246396/IQA2T99JnMykRo_w0EUPL52zAZMuOTu7yq0KdhvcaJomnaI?e=qL8byW) or [Dropbox](https://www.dropbox.com/scl/fi/35ye9n54te1vwxa6rrwxe/remind.zip?rlkey=n3ultal8cvu8ny8kqdct5u1nk&st=ikixdmzc&dl=0).
 
 4. Install all necessary packages (including PyTorch) using
    ```bash
